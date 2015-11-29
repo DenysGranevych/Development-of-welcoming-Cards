@@ -1,0 +1,91 @@
+E:\Programing\testWPFCursova\testWPFCursova\bin\Debug\testWPFCursova.exe.config
+E:\Programing\testWPFCursova\testWPFCursova\bin\Debug\testWPFCursova.exe
+E:\Programing\testWPFCursova\testWPFCursova\bin\Debug\testWPFCursova.pdb
+E:\Programing\testWPFCursova\testWPFCursova\obj\Debug\testWPFCursova.csprojResolveAssemblyReference.cache
+E:\Programing\testWPFCursova\testWPFCursova\obj\Debug\MainWindow.baml
+E:\Programing\testWPFCursova\testWPFCursova\obj\Debug\MainWindow.g.cs
+E:\Programing\testWPFCursova\testWPFCursova\obj\Debug\App.g.cs
+E:\Programing\testWPFCursova\testWPFCursova\obj\Debug\testWPFCursova_MarkupCompile.cache
+E:\Programing\testWPFCursova\testWPFCursova\obj\Debug\testWPFCursova.g.resources
+E:\Programing\testWPFCursova\testWPFCursova\obj\Debug\testWPFCursova.Properties.Resources.resources
+E:\Programing\testWPFCursova\testWPFCursova\obj\Debug\testWPFCursova.csproj.GenerateResource.Cache
+E:\Programing\testWPFCursova\testWPFCursova\obj\Debug\testWPFCursova.exe
+E:\Programing\testWPFCursova\testWPFCursova\obj\Debug\testWPFCursova.pdb
+E:\Programing\testWPFCursova\testWPFCursova\bin\Debug\WpfAnimatedGif.dll
+E:\Programing\testWPFCursova\testWPFCursova\bin\Debug\WpfAnimatedGif.xml
+C:\Users\Granevich\Desktop\testWPFCursova2\testWPFCursova\bin\Debug\testWPFCursova.exe.config
+C:\Users\Granevich\Desktop\testWPFCursova2\testWPFCursova\obj\Debug\testWPFCursova.exe
+C:\Users\Granevich\Desktop\testWPFCursova2\testWPFCursova\obj\Debug\testWPFCursova.pdb
+C:\Users\Granevich\Desktop\testWPFCursova2\testWPFCursova\bin\Debug\testWPFCursova.exe
+C:\Users\Granevich\Desktop\testWPFCursova2\testWPFCursova\bin\Debug\testWPFCursova.pdb
+C:\Users\Granevich\Desktop\testWPFCursova2\testWPFCursova\bin\Debug\WpfAnimatedGif.dll
+C:\Users\Granevich\Desktop\testWPFCursova2\testWPFCursova\bin\Debug\WpfAnimatedGif.xml
+C:\Users\Granevich\Desktop\testWPFCursova2\testWPFCursova\obj\Debug\testWPFCursova.csprojResolveAssemblyReference.cache
+C:\Users\Granevich\Desktop\testWPFCursova2\testWPFCursova\obj\Debug\MainWindow.baml
+C:\Users\Granevich\Desktop\testWPFCursova2\testWPFCursova\obj\Debug\MainWindow.g.cs
+C:\Users\Granevich\Desktop\testWPFCursova2\testWPFCursova\obj\Debug\App.g.cs
+C:\Users\Granevich\Desktop\testWPFCursova2\testWPFCursova\obj\Debug\testWPFCursova_MarkupCompile.cache
+C:\Users\Granevich\Desktop\testWPFCursova2\testWPFCursova\obj\Debug\testWPFCursova.g.resources
+C:\Users\Granevich\Desktop\testWPFCursova2\testWPFCursova\obj\Debug\testWPFCursova.Properties.Resources.resources
+C:\Users\Granevich\Desktop\testWPFCursova2\testWPFCursova\obj\Debug\testWPFCursova.csproj.GenerateResource.Cache
+C:\Users\Granevich\Desktop\testWPFCursova2\testWPFCursova\bin\Debug\Xceed.Wpf.Toolkit.dll
+C:\Users\Granevich\Desktop\testWPFCursova2\testWPFCursova\obj\Debug\Color.baml
+C:\Users\Granevich\Desktop\testWPFCursova2\testWPFCursova\obj\Debug\Color.g.cs
+D:\my project\testWPFCursova2 work\testWPFCursova\bin\Debug\testWPFCursova.exe.config
+D:\my project\testWPFCursova2 work\testWPFCursova\obj\Debug\testWPFCursova.exe
+D:\my project\testWPFCursova2 work\testWPFCursova\obj\Debug\testWPFCursova.pdb
+D:\my project\testWPFCursova2 work\testWPFCursova\bin\Debug\testWPFCursova.exe
+D:\my project\testWPFCursova2 work\testWPFCursova\bin\Debug\testWPFCursova.pdb
+D:\my project\testWPFCursova2 work\testWPFCursova\bin\Debug\WpfAnimatedGif.dll
+D:\my project\testWPFCursova2 work\testWPFCursova\bin\Debug\WpfAnimatedGif.xml
+D:\my project\testWPFCursova2 work\testWPFCursova\obj\Debug\testWPFCursova.csprojResolveAssemblyReference.cache
+D:\my project\testWPFCursova2 work\testWPFCursova\obj\Debug\MainWindow.baml
+D:\my project\testWPFCursova2 work\testWPFCursova\obj\Debug\MainWindow.g.cs
+D:\my project\testWPFCursova2 work\testWPFCursova\obj\Debug\App.g.cs
+D:\my project\testWPFCursova2 work\testWPFCursova\obj\Debug\testWPFCursova_MarkupCompile.cache
+D:\my project\testWPFCursova2 work\testWPFCursova\obj\Debug\testWPFCursova.g.resources
+D:\my project\testWPFCursova2 work\testWPFCursova\obj\Debug\testWPFCursova.csproj.GenerateResource.Cache
+D:\my project\testWPFCursova2 work\testWPFCursova\bin\Debug\ColorFont.dll
+D:\my project\testWPFCursova2 work\testWPFCursova\bin\Debug\ColorFont.pdb
+D:\my project\testWPFCursova2 work\testWPFCursova\obj\Debug\ChristmasPostcard.Properties.Resources.resources
+D:\my project\testWPFCursova2 work\testWPFCursova\obj\Debug\ChristmasPostcard.Resource1.resources
+C:\Users\Granevich\Desktop\Christmas Postcard\Проект\Розробка привітальної листівки\testWPFCursova\bin\Debug\testWPFCursova.exe.config
+C:\Users\Granevich\Desktop\Christmas Postcard\Проект\Розробка привітальної листівки\testWPFCursova\obj\Debug\testWPFCursova.exe
+C:\Users\Granevich\Desktop\Christmas Postcard\Проект\Розробка привітальної листівки\testWPFCursova\obj\Debug\testWPFCursova.pdb
+C:\Users\Granevich\Desktop\Christmas Postcard\Проект\testWPFCursova\bin\Debug\testWPFCursova.exe.config
+C:\Users\Granevich\Desktop\Christmas Postcard\Проект\testWPFCursova\obj\Debug\testWPFCursova.exe
+C:\Users\Granevich\Desktop\Christmas Postcard\Проект\testWPFCursova\obj\Debug\testWPFCursova.pdb
+C:\Users\Granevich\Desktop\Christmas Postcard\Проект\testWPFCursova\bin\Debug\testWPFCursova.exe
+C:\Users\Granevich\Desktop\Christmas Postcard\Проект\testWPFCursova\bin\Debug\testWPFCursova.pdb
+C:\Users\Granevich\Desktop\Christmas Postcard\Проект\testWPFCursova\bin\Debug\ColorFont.dll
+C:\Users\Granevich\Desktop\Christmas Postcard\Проект\testWPFCursova\bin\Debug\WpfAnimatedGif.dll
+C:\Users\Granevich\Desktop\Christmas Postcard\Проект\testWPFCursova\bin\Debug\ColorFont.pdb
+C:\Users\Granevich\Desktop\Christmas Postcard\Проект\testWPFCursova\bin\Debug\WpfAnimatedGif.xml
+C:\Users\Granevich\Desktop\Christmas Postcard\Проект\testWPFCursova\obj\Debug\testWPFCursova.csprojResolveAssemblyReference.cache
+C:\Users\Granevich\Desktop\Christmas Postcard\Проект\testWPFCursova\obj\Debug\MainWindow.baml
+C:\Users\Granevich\Desktop\Christmas Postcard\Проект\testWPFCursova\obj\Debug\MainWindow.g.cs
+C:\Users\Granevich\Desktop\Christmas Postcard\Проект\testWPFCursova\obj\Debug\App.g.cs
+C:\Users\Granevich\Desktop\Christmas Postcard\Проект\testWPFCursova\obj\Debug\testWPFCursova_MarkupCompile.cache
+C:\Users\Granevich\Desktop\Christmas Postcard\Проект\testWPFCursova\obj\Debug\testWPFCursova.g.resources
+C:\Users\Granevich\Desktop\Christmas Postcard\Проект\testWPFCursova\obj\Debug\ChristmasPostcard.Properties.Resources.resources
+C:\Users\Granevich\Desktop\Christmas Postcard\Проект\testWPFCursova\obj\Debug\ChristmasPostcard.Resource1.resources
+C:\Users\Granevich\Desktop\Christmas Postcard\Проект\testWPFCursova\obj\Debug\testWPFCursova.csproj.GenerateResource.Cache
+D:\Univer\my project\Проект\testWPFCursova\bin\Debug\testWPFCursova.exe.config
+D:\Univer\my project\Проект\testWPFCursova\bin\Debug\testWPFCursova.exe
+D:\Univer\my project\Проект\testWPFCursova\bin\Debug\testWPFCursova.pdb
+D:\Univer\my project\Проект\testWPFCursova\bin\Debug\ColorFont.dll
+D:\Univer\my project\Проект\testWPFCursova\bin\Debug\WpfAnimatedGif.dll
+D:\Univer\my project\Проект\testWPFCursova\bin\Debug\ColorFont.pdb
+D:\Univer\my project\Проект\testWPFCursova\bin\Debug\WpfAnimatedGif.xml
+D:\Univer\my project\Проект\testWPFCursova\obj\Debug\testWPFCursova.csprojResolveAssemblyReference.cache
+D:\Univer\my project\Проект\testWPFCursova\obj\Debug\MainWindow.baml
+D:\Univer\my project\Проект\testWPFCursova\obj\Debug\MainWindow.g.cs
+D:\Univer\my project\Проект\testWPFCursova\obj\Debug\App.g.cs
+D:\Univer\my project\Проект\testWPFCursova\obj\Debug\testWPFCursova_MarkupCompile.cache
+D:\Univer\my project\Проект\testWPFCursova\obj\Debug\testWPFCursova.g.resources
+D:\Univer\my project\Проект\testWPFCursova\obj\Debug\ChristmasPostcard.Properties.Resources.resources
+D:\Univer\my project\Проект\testWPFCursova\obj\Debug\testWPFCursova.csproj.GenerateResource.Cache
+D:\Univer\my project\Проект\testWPFCursova\obj\Debug\testWPFCursova.exe
+D:\Univer\my project\Проект\testWPFCursova\obj\Debug\testWPFCursova.pdb
+D:\Univer\my project\Проект\testWPFCursova\bin\Debug\Resources\Background.jpg
+D:\Univer\my project\Проект\testWPFCursova\obj\Debug\testWPFCursova_Content.g.cs

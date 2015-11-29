@@ -1,0 +1,50 @@
+D:\my project\testWPFCursova2 work\ColorFont\ColorFont\bin\Debug\ColorFont.dll
+D:\my project\testWPFCursova2 work\ColorFont\ColorFont\bin\Debug\ColorFont.pdb
+D:\my project\testWPFCursova2 work\ColorFont\ColorFont\obj\Debug\ColorFont.csprojResolveAssemblyReference.cache
+D:\my project\testWPFCursova2 work\ColorFont\ColorFont\obj\Debug\ColorPicker.baml
+D:\my project\testWPFCursova2 work\ColorFont\ColorFont\obj\Debug\ColorFontChooser.g.cs
+D:\my project\testWPFCursova2 work\ColorFont\ColorFont\obj\Debug\ColorFontDialog.g.cs
+D:\my project\testWPFCursova2 work\ColorFont\ColorFont\obj\Debug\ColorPicker.g.cs
+D:\my project\testWPFCursova2 work\ColorFont\ColorFont\obj\Debug\GeneratedInternalTypeHelper.g.cs
+D:\my project\testWPFCursova2 work\ColorFont\ColorFont\obj\Debug\ColorFont_MarkupCompile.cache
+D:\my project\testWPFCursova2 work\ColorFont\ColorFont\obj\Debug\ColorFont_MarkupCompile.lref
+D:\my project\testWPFCursova2 work\ColorFont\ColorFont\obj\Debug\ColorFontChooser.baml
+D:\my project\testWPFCursova2 work\ColorFont\ColorFont\obj\Debug\ColorFontDialog.baml
+D:\my project\testWPFCursova2 work\ColorFont\ColorFont\obj\Debug\ColorFont.g.resources
+D:\my project\testWPFCursova2 work\ColorFont\ColorFont\obj\Debug\ColorFont.Properties.Resources.resources
+D:\my project\testWPFCursova2 work\ColorFont\ColorFont\obj\Debug\ColorFont.csproj.GenerateResource.Cache
+D:\my project\testWPFCursova2 work\ColorFont\ColorFont\obj\Debug\ColorFont.dll
+D:\my project\testWPFCursova2 work\ColorFont\ColorFont\obj\Debug\ColorFont.pdb
+D:\my project\testWPFCursova2 work\ColorFont - Copy - Copy\ColorFont\obj\Debug\ColorFont.csprojResolveAssemblyReference.cache
+D:\my project\testWPFCursova2 work\ColorFont - Copy - Copy\ColorFont\obj\Debug\ColorPicker.baml
+D:\my project\testWPFCursova2 work\ColorFont - Copy - Copy\ColorFont\obj\Debug\ColorFontChooser.g.cs
+D:\my project\testWPFCursova2 work\ColorFont - Copy - Copy\ColorFont\obj\Debug\ColorFontDialog.g.cs
+D:\my project\testWPFCursova2 work\ColorFont - Copy - Copy\ColorFont\obj\Debug\ColorPicker.g.cs
+D:\my project\testWPFCursova2 work\ColorFont - Copy - Copy\ColorFont\obj\Debug\GeneratedInternalTypeHelper.g.cs
+D:\my project\testWPFCursova2 work\ColorFont - Copy - Copy\ColorFont\obj\Debug\ColorFont_MarkupCompile.cache
+D:\my project\testWPFCursova2 work\ColorFont - Copy - Copy\ColorFont\obj\Debug\ColorFont_MarkupCompile.lref
+D:\my project\testWPFCursova2 work\ColorFont - Copy - Copy\ColorFont\obj\Debug\ColorFont.dll
+D:\my project\testWPFCursova2 work\ColorFont - Copy - Copy\ColorFont\bin\Debug\ColorFont.dll
+D:\my project\testWPFCursova2 work\ColorFont - Copy - Copy\ColorFont\bin\Debug\ColorFont.pdb
+D:\my project\testWPFCursova2 work\ColorFont - Copy - Copy\ColorFont\obj\Debug\ColorFontChooser.baml
+D:\my project\testWPFCursova2 work\ColorFont - Copy - Copy\ColorFont\obj\Debug\ColorFontDialog.baml
+D:\my project\testWPFCursova2 work\ColorFont - Copy - Copy\ColorFont\obj\Debug\ColorFont.g.resources
+D:\my project\testWPFCursova2 work\ColorFont - Copy - Copy\ColorFont\obj\Debug\ColorFont.Properties.Resources.resources
+D:\my project\testWPFCursova2 work\ColorFont - Copy - Copy\ColorFont\obj\Debug\ColorFont.csproj.GenerateResource.Cache
+D:\my project\testWPFCursova2 work\ColorFont - Copy - Copy\ColorFont\obj\Debug\ColorFont.pdb
+D:\Univer\my project\Проект\ColorFont - Copy - Copy\ColorFont\bin\Debug\ColorFont.dll
+D:\Univer\my project\Проект\ColorFont - Copy - Copy\ColorFont\bin\Debug\ColorFont.pdb
+D:\Univer\my project\Проект\ColorFont - Copy - Copy\ColorFont\obj\Debug\ColorPicker.baml
+D:\Univer\my project\Проект\ColorFont - Copy - Copy\ColorFont\obj\Debug\ColorFontChooser.g.cs
+D:\Univer\my project\Проект\ColorFont - Copy - Copy\ColorFont\obj\Debug\ColorFontDialog.g.cs
+D:\Univer\my project\Проект\ColorFont - Copy - Copy\ColorFont\obj\Debug\ColorPicker.g.cs
+D:\Univer\my project\Проект\ColorFont - Copy - Copy\ColorFont\obj\Debug\GeneratedInternalTypeHelper.g.cs
+D:\Univer\my project\Проект\ColorFont - Copy - Copy\ColorFont\obj\Debug\ColorFont_MarkupCompile.cache
+D:\Univer\my project\Проект\ColorFont - Copy - Copy\ColorFont\obj\Debug\ColorFont_MarkupCompile.lref
+D:\Univer\my project\Проект\ColorFont - Copy - Copy\ColorFont\obj\Debug\ColorFontChooser.baml
+D:\Univer\my project\Проект\ColorFont - Copy - Copy\ColorFont\obj\Debug\ColorFontDialog.baml
+D:\Univer\my project\Проект\ColorFont - Copy - Copy\ColorFont\obj\Debug\ColorFont.g.resources
+D:\Univer\my project\Проект\ColorFont - Copy - Copy\ColorFont\obj\Debug\ColorFont.Properties.Resources.resources
+D:\Univer\my project\Проект\ColorFont - Copy - Copy\ColorFont\obj\Debug\ColorFont.csproj.GenerateResource.Cache
+D:\Univer\my project\Проект\ColorFont - Copy - Copy\ColorFont\obj\Debug\ColorFont.dll
+D:\Univer\my project\Проект\ColorFont - Copy - Copy\ColorFont\obj\Debug\ColorFont.pdb

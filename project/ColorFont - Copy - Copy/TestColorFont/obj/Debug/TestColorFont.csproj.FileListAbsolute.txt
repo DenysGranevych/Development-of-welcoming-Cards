@@ -1,0 +1,14 @@
+D:\my project\testWPFCursova2 work\ColorFont\TestColorFont\bin\Debug\TestColorFont.exe
+D:\my project\testWPFCursova2 work\ColorFont\TestColorFont\bin\Debug\TestColorFont.pdb
+D:\my project\testWPFCursova2 work\ColorFont\TestColorFont\bin\Debug\ColorFont.dll
+D:\my project\testWPFCursova2 work\ColorFont\TestColorFont\bin\Debug\ColorFont.pdb
+D:\my project\testWPFCursova2 work\ColorFont\TestColorFont\obj\Debug\TestColorFont.csprojResolveAssemblyReference.cache
+D:\my project\testWPFCursova2 work\ColorFont\TestColorFont\obj\Debug\MainWindow.baml
+D:\my project\testWPFCursova2 work\ColorFont\TestColorFont\obj\Debug\MainWindow.g.cs
+D:\my project\testWPFCursova2 work\ColorFont\TestColorFont\obj\Debug\App.g.cs
+D:\my project\testWPFCursova2 work\ColorFont\TestColorFont\obj\Debug\TestColorFont_MarkupCompile.cache
+D:\my project\testWPFCursova2 work\ColorFont\TestColorFont\obj\Debug\TestColorFont.g.resources
+D:\my project\testWPFCursova2 work\ColorFont\TestColorFont\obj\Debug\TestColorFont.Properties.Resources.resources
+D:\my project\testWPFCursova2 work\ColorFont\TestColorFont\obj\Debug\TestColorFont.csproj.GenerateResource.Cache
+D:\my project\testWPFCursova2 work\ColorFont\TestColorFont\obj\Debug\TestColorFont.exe
+D:\my project\testWPFCursova2 work\ColorFont\TestColorFont\obj\Debug\TestColorFont.pdb
